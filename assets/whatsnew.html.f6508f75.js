@@ -1,0 +1,1 @@
+const e={key:"v-31780730",path:"/en/guide/whatsnew.html",title:"What's new",lang:"en-US",frontmatter:{title:"What's new",icon:"whats-new"},excerpt:"",headers:[],git:{createdTime:1638169323e3,updatedTime:1651980984e3,contributors:[{name:"kings",email:"963987632@qq.com",commits:38}]},readingTime:{minutes:1.23,words:368},filePathRelative:"en/guide/whatsnew.md"};export{e as data};
